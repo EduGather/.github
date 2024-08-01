@@ -3,7 +3,7 @@
 
 | Name | GitHub Profile | Role |
 |------|----------------|------|
-| Rikard | ![Avatar](https://github.com/rikorn.png?size=50) [rikorn](https://github.com/rikorn) |  Founder and Developer |
+| Rikard | <a href="https://github.com/rikorn"><img src="https://github.com/rikorn.png" alt="rikorn" width="50" height="50"></a> [rikorn](https://github.com/rikorn) | Founder and Developer |
 | Malte | <a href="https://github.com/mavosy"><img src="https://github.com/mavosy.png" alt="mavosy" width="50" height="50"></a> [mavosy](https://github.com/mavosy) | Founder and Developer |
 
 
