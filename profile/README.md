@@ -1,4 +1,12 @@
 ## Hi there 👋
+## Our Team
+
+| Name | GitHub Profile | Role |
+|------|----------------|------|
+| Rikard | ![Avatar](https://github.com/rikorn.png?size=50) [rikorn](https://github.com/rikorn) |  Founder and Developer |
+| Malte | <a href="https://github.com/mavosy"><img src="https://github.com/mavosy.png" alt="mavosy" width="50" height="50"></a> [mavosy](https://github.com/rikorn) | Founder and Developer |
+
+
 
 <!--
 
